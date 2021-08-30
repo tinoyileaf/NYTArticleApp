@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYT Article App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NY Times Popular Articles</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">About</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="ny_times_most_popular">NY Times Most Popular</string>
+    <string name="ok">OK</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="about_message">A simple app to show popular news articles. All articles shown in the app are provided by NY Times APIs.</string>
+</resources>
